@@ -1,6 +1,5 @@
 ---
 title: "Coursera Developing Data Products Project: Predicting Vehicle MPG"
-author: "SJ"
 date: "Sunday, December 21, 2014"
 output: slidy_presentation
 ---
@@ -25,11 +24,10 @@ The simple GLM model has a $RMSE$ of 3.35, and an $R^2$ of 0.818.  While other m
 Algorithm Predictions
 ========================================================
 
-![plot of chunk unnamed-chunk-2](https://mtcs.box.com/s/y6z90znx1t4zkdtszjf2) 
-***
+![plot of chunk unnamed-chunk-2](https://raw.githubusercontent.com/senthil3645/Developing-Data-Products-Project/master/Images/download.png) 
+
 The relative 45 degree line shape of this simple plot of actual vs. predicted MPG values demonstrates the simple GLM's decent fit.
 
 Shiny App
 ========================================================
-![alt text](https://mtcs.box.com/s/g8hjs9mpyrjq61lzp271)
-***
+![alt text](https://raw.githubusercontent.com/senthil3645/Developing-Data-Products-Project/master/Images/shiny.png)
